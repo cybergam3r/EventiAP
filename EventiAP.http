@@ -1,0 +1,6 @@
+@EventiAP_HostAddress = http://localhost:5118
+
+GET {{EventiAP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
